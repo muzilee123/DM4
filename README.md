@@ -2,7 +2,7 @@
 
 **1. 问题描述**
 
-本次作业将从Anomaly Detection Meta-Analysis Benchmarks提供的benchmark数据集中选取pageb和 shuttle进行分析。
+本次作业将从Anomaly Detection Meta-Analysis Benchmarks提供的benchmark数据集中选取 pageb 和 shuttle数据集进行分析。
 
 **2. 数据来源**
 
